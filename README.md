@@ -9,3 +9,4 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 Berikut daftar Volunter yang diterima:
 
 * san ray, [oo.or.id](https://oo.or.id).
+* Irsan Efendi Rangkuti, [Linkedin](https://www.linkedin.com/in/irsan-efendi-rangkuti-912b1a266).
